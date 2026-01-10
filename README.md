@@ -6,7 +6,7 @@ Educational materials for AI-driven teacher systems and related technologies.
 
 Watch the project demonstration
 
-[![Watch Demo Video](https://cdn.loom.com/sessions/thumbnails/b3a89de35ce2436d9628031cba5aab19.jpg)](https://www.loom.com/share/b3a89de35ce2436d9628031cba5aab19)
+[![Watch the video](https://img.youtube.com/vi/YErUIQ7TVHg/maxresdefault.jpg)](https://youtu.be/YErUIQ7TVHg)
 
 ## Skills Overview
 

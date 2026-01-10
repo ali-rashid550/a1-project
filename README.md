@@ -2,6 +2,12 @@
 
 Educational materials for AI-driven teacher systems and related technologies.
 
+## Project Demo Video
+
+Watch the project demonstration
+
+[![AI-Driven Teacher Demo](https://cdn.loom.com/sessions/thumbnails/b3a89de35ce2436d9628031cba5aab19.jpg)](https://www.loom.com/share/b3a89de35ce2436d9628031cba5aab19)
+
 ## Skills Overview
 
 ### Technical Lesson Explainer

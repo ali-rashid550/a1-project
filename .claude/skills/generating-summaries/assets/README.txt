@@ -1,0 +1,1 @@
+Placeholder for assets that may be added to the generating-summaries skill in the future.

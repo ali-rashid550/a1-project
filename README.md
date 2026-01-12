@@ -2,6 +2,12 @@
 
 Educational materials for AI-driven teacher systems and related technologies.
 
+## Project Demo Video
+
+Watch the project demonstration
+
+[![Watch the video](https://img.youtube.com/vi/YErUIQ7TVHg/maxresdefault.jpg)](https://youtu.be/YErUIQ7TVHg)
+
 ## Skills Overview
 
 ### Technical Lesson Explainer
